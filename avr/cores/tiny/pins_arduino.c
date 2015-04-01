@@ -261,8 +261,8 @@ const uint8_t PROGMEM digital_pin_to_timer_PGM[] =
 //                           +-\/-+
 //  Ain0       (D  5)  PB5  1|    |8   VCC
 //  Ain3       (D  3)  PB3  2|    |7   PB2  (D  2)  INT0  Ain1
-//  Ain2       (D  4)  PB4  3|    |6   PB1  (D  1)        pwm1
-//                     GND  4|    |5   PB0  (D  0)        pwm0
+//  Ain2  pwm  (D  4)  PB4  3|    |6   PB1  (D  1)        pwm
+//                     GND  4|    |5   PB0  (D  0)        pwm
 //                           +----+
 
 // these arrays map port names (e.g. port B) to the

@@ -43,7 +43,6 @@ Next...
       C:\Projects\Arduino\hardware\tiny\avr\platform.txt
       C:\Projects\Arduino\hardware\tiny\avr\Prospective Boards.txt
       C:\Projects\Arduino\hardware\tiny\avr\README
-      C:\Projects\Arduino\hardware\tiny\avr\bootloaders\
       C:\Projects\Arduino\hardware\tiny\avr\cores\
 
   The following folder should contain the source files for the Arduino-Tiny
